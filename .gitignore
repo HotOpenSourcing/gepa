@@ -145,7 +145,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv
 env/
@@ -217,3 +216,5 @@ runs/
 outputs/
 gepa_terminus/
 archive/
+config.bat
+node_modules
